@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Talha 👋
 
-<!--
-**talha-rana-dev/talha-rana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shopify Theme & Frontend Developer at Iconic Studio.
 
-Here are some ideas to get you started:
+## What I do
+- Build custom Shopify Liquid sections with schema-driven settings
+- Convert static HTML/CSS/JS designs into Shopify themes
+- Create responsive, pixel-perfect UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+HTML · CSS · JavaScript · Shopify Liquid · Git & GitHub
+
+## Currently learning
+JavaScript fundamentals and Python
+
+## Featured work
+- [Custom Hero Banner: Shopify Liquid Section](https://github.com/talha-rana-dev/shopify-liquid-sections)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/talha-rana-shopify)
